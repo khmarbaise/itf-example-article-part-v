@@ -18,12 +18,12 @@
 
 Example project for demonstration purposes of the [Integration Testing Framework][itf].
 
-https://blog.soebes.de/blog/2020/09/XX/itf-part-v/
+https://blog.soebes.de/blog/2020/09/10/itf-part-v/
 
 # State
 This project is an example project for an article.
 
-Details can be found here https://blog.soebes.de/blog/2020/09/XX/itf-part-v/
+Details can be found here https://blog.soebes.de/blog/2020/09/10/itf-part-v/
 
 
 [itf]: https://khmarbaise.github.io/maven-it-extension/
