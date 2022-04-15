@@ -26,7 +26,7 @@
   <parent>
     <groupId>com.soebes.smpp</groupId>
     <artifactId>smpp-plugins</artifactId>
-    <version>5.3.1</version>
+    <version>5.3.8</version>
   </parent>
 
   <groupId>com.soebes.itf.examples.part.v</groupId>
@@ -44,7 +44,7 @@
       <dependency>
         <groupId>org.junit</groupId>
         <artifactId>junit-bom</artifactId>
-        <version>5.7.2</version>
+        <version>5.8.2</version>
         <scope>import</scope>
         <type>pom</type>
       </dependency>
@@ -55,17 +55,19 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-model</artifactId>
       <version>3.1.0</version>
+      <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-core</artifactId>
       <version>3.1.0</version>
+      <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-plugin-api</artifactId>
-      <scope>provided</scope>
       <version>3.1.0</version>
+      <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>org.apache.maven.plugin-tools</groupId>
