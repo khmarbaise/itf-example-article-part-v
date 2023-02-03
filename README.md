@@ -18,7 +18,7 @@
 
 Example project for demonstration purposes of the [Integration Testing Framework][itf].
 
-https://blog.soebes.de/blog/2020/09/10/itf-part-v/
+https://blog.soebes.io/posts/2020/09/2020-09-10-itf-part-v/
 
 # State
 This project is an example project for an article.
